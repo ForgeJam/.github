@@ -1,2 +1,2 @@
-![ForgeJam-Dark](forgejam-darkmode.svg#gh-dark-mode-only)
-![ForgeJam-Light](forgejam-lightmode.svg#gh-light-mode-only)
+![ForgeJam-Dark](https://github.com/ForgeJam/.github/raw/main/profile/forgejam-darkmode.svg#gh-dark-mode-only)
+![ForgeJam-Light](https://github.com/ForgeJam/.github/raw/main/profile/forgejam-lightmode.svg#gh-light-mode-only)
